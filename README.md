@@ -2,6 +2,7 @@
 
 - Run `yarn` to install dependencies
 - Run `yarn why expo` to make sure it's using `expo@44.0.1`
+- Run `yarn why expo-asset` to make sure it's using `expo-asset@8.4.5`
 - Run `yarn start` (which runs `expo start`), then press `w` to start a web version. Alternatively, run `yarn start --web`
 - You should see the website running with the image presented
 
